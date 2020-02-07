@@ -1,4 +1,4 @@
-package com.ymschool.learning.jcstress;
+package com.sch.jcstress;
 
 
 import org.openjdk.jcstress.annotations.*;

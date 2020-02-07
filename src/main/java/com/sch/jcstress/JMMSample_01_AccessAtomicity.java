@@ -1,4 +1,4 @@
-package com.ymschool.learning.jcstress;
+package com.sch.jcstress;
 
 /*
  * Copyright (c) 2016, Red Hat Inc.
